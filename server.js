@@ -42,7 +42,9 @@ http.createServer( function(req, res) {
 			}
 		}); 
 	} else {
-		console.log("Invalid file extension detected: " + ext)
+		console.log("Invalid file extension detected: " + ext);
+		res.writeHead(404);
+		res.end("404 - Page not found");
 	}
  
 }).listen(port, serverUrl);
