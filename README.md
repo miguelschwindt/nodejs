@@ -12,3 +12,6 @@ text/plain<br>
 image/jpeg<br>
 image/gif<br>
 image/png
+<br>
+======
+**Requerimientos**
