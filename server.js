@@ -38,7 +38,7 @@ http.createServer( function(req, res) {
 			} else {
 				console.log("File not found: " + localPath);
 				res.writeHead(404);
-				res.end();
+				res.end("404 - Page not found");
 			}
 		}); 
 	} else {
