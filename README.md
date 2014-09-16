@@ -12,6 +12,14 @@ text/plain<br>
 image/jpeg<br>
 image/gif<br>
 image/png
-<br>
+
 ======
 **Requerimientos**
+<br>
+*** Node.js (http://nodejs.org/)
+======
+**Iniciar Server**
+<br>
+En línea de comandos, ubicarse en la carpeta donde se encuentra el archivo server.js y ejecutar el siguiente comando para iniciar el servidor:
+<br>`node server.js`
+
