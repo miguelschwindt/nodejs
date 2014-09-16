@@ -15,8 +15,7 @@ image/png
 
 ======
 **Requerimientos**
-<br>
-*** Node.js (http://nodejs.org/)
+* Node.js (http://nodejs.org/)
 ======
 **Iniciar Server**
 <br>
